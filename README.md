@@ -29,20 +29,27 @@ This tool helps businesses track and manage installment-based sales efficiently.
 
 # window base form after insert survey result
 ## 🖼️ Screenshot  
-![Capture d'écran 2025-03-05 215335](https://github.com/user-attachments/assets/841ec74b-89d1-4273-9a02-0c1ef10e31c9)
+![Capture d'écran 2025-03-05 224037](https://github.com/user-attachments/assets/52d4d102-b564-429c-bf79-e2076e1be804)
 
-# insert survey result form
+
+# client profile form
 ## 🖼️ Screenshot  
-![Capture d'écran 2025-03-05 224037](https://github.com/user-attachments/assets/8b6b48e5-39cf-4fb0-92bd-d12d4773753c)
+![Capture d'écran 2025-03-05 224724](https://github.com/user-attachments/assets/d35db733-c39b-4ec0-bce7-ead912c9feb3)
 
-# insert survey result form
+
+# admin dashboard form
 ## 🖼️ Screenshot  
-![6](https://github.com/user-attachments/assets/bb626d68-0f16-4cc7-a7cf-2c21c0032da8)
+![Capture d'écran 2025-03-05 225402](https://github.com/user-attachments/assets/551344c8-947f-42fe-8441-870af0ebab4b)
+
+# show user selected activity form
+## 🖼️ Screenshot  
+![Capture d'écran 2025-03-05 225545](https://github.com/user-attachments/assets/d35909e6-2e77-4960-8d53-401f3666fa1c)
 
 
 
 
-## 🚀 Features  
-- Track customer installment payments  
-- Generate reports  
-- User-friendly interface  
+## 🚀 Features
+- Track customer installments
+- Generate reports
+- Easy to use interface
+- All versions are paid
