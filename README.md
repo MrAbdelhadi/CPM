@@ -13,7 +13,8 @@ This tool helps businesses track and manage installment-based sales efficiently.
 
 # window base form
 ## 🖼️ Screenshot  
-![Capture d'écran 2025-03-05 215335](https://github.com/user-attachments/assets/841ec74b-89d1-4273-9a02-0c1ef10e31c9)
+![3](https://github.com/user-attachments/assets/ced78700-88ed-45a6-be2e-a06e5ae38a09)
+
 
 # insert liste form
 ## 🖼️ Screenshot  
