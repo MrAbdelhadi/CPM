@@ -26,7 +26,8 @@ This tool helps businesses track and manage installment-based sales efficiently.
 
 # insert survey result form
 ## 🖼️ Screenshot  
-![6](https://github.com/user-attachments/assets/bb626d68-0f16-4cc7-a7cf-2c21c0032da8)
+![6](https://github.com/user-attachments/assets/77e10024-039f-493b-8687-ef2dbe988b8a)
+
 
 # window base form after insert survey result
 ## 🖼️ Screenshot  
@@ -35,7 +36,8 @@ This tool helps businesses track and manage installment-based sales efficiently.
 
 # client profile form
 ## 🖼️ Screenshot  
-![Capture d'écran 2025-03-05 224724](https://github.com/user-attachments/assets/d35db733-c39b-4ec0-bce7-ead912c9feb3)
+![Capture d'écran 2025-03-05 224724](https://github.com/user-attachments/assets/26740687-9a13-4c5e-9768-fe68c422ea65)
+
 
 
 # admin dashboard form
